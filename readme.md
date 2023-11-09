@@ -29,10 +29,12 @@
 
 <p align="center"> 
   <samp>
-   
+    <a href="https://www.google.com/search?q=ozcankrks">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
-    Hello, I write here the information that I use in my works and which will be useful for my next projects in the form of an article
+    「 I am a Junior React Developer from <b>Turkey</b> 」
+     <br>
+     <br>
+     Hello, I write here the information that I use in my works and which will be useful for my next projects in the form of an article
     <br>
     <br>
   </samp>
@@ -64,7 +66,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: ozcankrks.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: ozcan.krakus@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/ozcankrks)
 
 </p>
