@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=ozcankrks">「 Google Me 」</a>
     <br>
-    「 I am a Junior React Developer from <b>Turkey</b> 」
+    「 I am a Javascript Developer from <b>Turkey</b> 」
      <br>
      <br>
      Hello, I write here the information that I use in my works and which will be useful for my next projects in the form of an article
